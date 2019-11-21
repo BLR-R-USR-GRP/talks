@@ -28,7 +28,7 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <td>September 21, 2019</td>
     <td>Text Analytics using R</td>
     <td>Prof. Aruna Devi & Dr. Vinothina V</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="">NA</a></td>
     <td><a href="">GitHub</a></td>
     <td><a href="https://www.youtube.com/watch?v=fC2BKrutF2c">YouTube</a></td>
   </tr>
