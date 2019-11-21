@@ -42,6 +42,15 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <td><a href="">NA</a></td>
   </tr>
   <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266412725/">13</a></td>
+    <td>November 16, 2019</td>
+    <td>conrad — Conference Radar</td>
+    <td>Vinayak Mehta</td>
+    <td><a href="https://github.com/vinayak-mehta/conrad">Code</a></td>
+    <td><a href="https://twitter.com/vortex_ape">Twitter</a></td>
+    <td><a href="">NA</a></td>
+  </tr>
+  <tr>
     <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/264863223/">4</a></td>
     <td>September 21, 2019</td>
     <td>Making ML Models available as API using R</td>
