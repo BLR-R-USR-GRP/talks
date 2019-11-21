@@ -35,7 +35,7 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
   <tr>
     <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266412725/">13</a></td>
     <td>November 16, 2019</td>
-    <td>From ML Web Apps to Dashboards with Shiny (R)</td>
+    <td>From ML Web Apps to Dashboards with Shiny </td>
     <td>Abdul Majed Raja RS</td>
     <td><a href="https://speakerdeck.com/amrrs/from-ml-web-apps-to-dashboards-r-with-shiny">Slides</a></td>
     <td><a href="https://github.com/amrrs">GitHub</a></td>
@@ -44,7 +44,7 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
   <tr>
     <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266412725/">13</a></td>
     <td>November 16, 2019</td>
-    <td>conrad — Conference Radar</td>
+    <td>conrad — Conference Radar [LT]</td>
     <td>Vinayak Mehta</td>
     <td><a href="https://github.com/vinayak-mehta/conrad">Code</a></td>
     <td><a href="https://twitter.com/vortex_ape">Twitter</a></td>
