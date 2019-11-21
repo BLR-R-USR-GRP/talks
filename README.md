@@ -15,7 +15,7 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <th>YouTube URL</th>
   </tr>
   <tr>
-    <td><a href="https://www.meetup.com/pydata-bangalore/events/264745505/">4</a></td>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/264863223/">4</a></td>
     <td>September 21, 2019</td>
     <td>Making ML Models available as API using R</td>
     <td>Saurav Ghosh</td>
@@ -24,7 +24,7 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <td><a href="https://www.youtube.com/watch?v=6ZGefYmiQDI">YouTube</a></td>
   </tr>
    <tr>
-    <td><a href="https://www.meetup.com/pydata-bangalore/events/264745505/">4</a></td>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/264863223/">4</a></td>
     <td>September 21, 2019</td>
     <td>Text Analytics using R</td>
     <td>Prof. Aruna Devi & Dr. Vinothina V</td>
