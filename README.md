@@ -2,7 +2,7 @@
 
 To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5A)!
 
-## List of talks at Bangalore R useR Group (BRUG) meetups (in reverse chronological order):
+## List of talks at BRUG meetups (in reverse chronological order):
 
 <table>
   <tr>
