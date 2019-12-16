@@ -14,6 +14,46 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <th>Twitter/GitHub/LinkedIn handle</th>
     <th>YouTube URL</th>
   </tr>
+  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
+    <td>December 14, 2019</td>
+    <td>Streaming Data Pipelines with Apache Beam</td>
+    <td>Tanay Tummalapalli</td>
+    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
+    <td>December 14, 2019</td>
+    <td>Interactive Visulization with `plotly.express`</td>
+    <td>AbdulMajedRaja RS</td>
+    <td><a href="https://amrrs.github.io/Interactive-Viz-Plotly-Express/presentation.html">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/amrrs/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
+    <td>December 14, 2019</td>
+    <td>Data Visualizations with R</td>
+    <td>Baijayanti Chakraborty</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/baijayanti-chakraborty/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
+    <td>December 14, 2019</td>
+    <td>Machine Learning in R - the Tidy way</td>
+    <td>Saurav Ghosh</td>
+    <td><a href="https://github.com/sauravg94/tidymodels-brug">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/saurav-ghosh-1311214/">Linkedin</a></td>
+    <td></td>
+  </tr>  
   <tr>
     <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266412725/">13</a></td>
     <td>November 16, 2019</td>
