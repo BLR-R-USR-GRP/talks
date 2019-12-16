@@ -40,7 +40,7 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <td>December 14, 2019</td>
     <td>Data Visualizations with R</td>
     <td>Baijayanti Chakraborty</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="https://www.slideshare.net/BaijayantiChakrabort3/data-visualization-206264770">Slides</a></td>
     <td><a href="https://www.linkedin.com/in/baijayanti-chakraborty/">Linkedin</a></td>
     <td></td>
   </tr>  
