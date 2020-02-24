@@ -42,30 +42,30 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <td></td>
   </tr>  
   <tr>
-    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
-    <td>December 14, 2019</td>
-    <td>Streaming Data Pipelines with Apache Beam</td>
-    <td>Tanay Tummalapalli</td>
-    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/267986648/">14</a></td>
+    <td>January 25, 2020</td>
+    <td>Delivering a Client Project with "Timeseries in R"</td>
+    <td>Sushmitha Krishna Kumar</td>
+    <td><a href="">NA</a></td>
+    <td><a href="https://www.linkedin.com/in/sushmitha-krishna-kumar-8a7385122/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/267986648/">14</a></td>
+    <td>January 25, 2020</td>
+    <td>Extreme event identification through time series rainfall data analysis</td>
+    <td>Bharadwaj Kumaresh</td>
+    <td><a href="">NA</a></td>
     <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
     <td></td>
   </tr>  
   <tr>
-    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
-    <td>December 14, 2019</td>
-    <td>Streaming Data Pipelines with Apache Beam</td>
-    <td>Tanay Tummalapalli</td>
-    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
-    <td></td>
-  </tr>  
-  <tr>
-    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
-    <td>December 14, 2019</td>
-    <td>Streaming Data Pipelines with Apache Beam</td>
-    <td>Tanay Tummalapalli</td>
-    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/267986648/">14</a></td>
+    <td>January 25, 2020</td>
+    <td>Interpretable Machine Learning</td>
+    <td>Kamal Mishra</td>
+    <td><a href="https://github.com/kkm24132/BRUG/blob/master/ML_Interpretability.pdf">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/kamalmishra07/">Linkedin</a></td>
     <td></td>
   </tr>  
   
