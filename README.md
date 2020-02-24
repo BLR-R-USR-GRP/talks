@@ -14,6 +14,60 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <th>Twitter/GitHub/LinkedIn handle</th>
     <th>YouTube URL</th>
   </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/268610342/">14</a></td>
+    <td>February 23, 2020</td>
+    <td>Shiny - build a data science application in 20 mins</td>
+    <td>Vedha Viyash</td>
+    <td><a href="https://github.com/vedhav/BRUG/blob/master/Shiny%20an%20essential%20tool.pdf">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/vedha-viyash-4014b4102/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/268610342/">14</a></td>
+    <td>February 23, 2020</td>
+    <td>Recommendation Engine</td>
+    <td>Sachin K Manjhi </td>
+    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/sachinkumar01/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/268610342/">14</a></td>
+    <td>February 23, 2020</td>
+    <td>Bagging and Boosting models in ML</td>
+    <td>Kamal Mishra & Mohammad J Asad</td>
+    <td><a href="https://github.com/kkm24132/BRUG/blob/master/Bagging_Boosting_in_R.pdf">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/kamalmishra07/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
+    <td>December 14, 2019</td>
+    <td>Streaming Data Pipelines with Apache Beam</td>
+    <td>Tanay Tummalapalli</td>
+    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
+    <td>December 14, 2019</td>
+    <td>Streaming Data Pipelines with Apache Beam</td>
+    <td>Tanay Tummalapalli</td>
+    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
+    <td>December 14, 2019</td>
+    <td>Streaming Data Pipelines with Apache Beam</td>
+    <td>Tanay Tummalapalli</td>
+    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
+    <td></td>
+  </tr>  
   
   <tr>
     <td><a href="https://www.meetup.com/BengaluRu-use-R-gRoup/events/266846390/">14</a></td>
