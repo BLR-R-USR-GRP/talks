@@ -28,7 +28,7 @@ To propose a talk, please [fill in this form](https://forms.gle/NoidzspucV4rveF5
     <td>February 23, 2020</td>
     <td>Recommendation Engine</td>
     <td>Sachin K Manjhi </td>
-    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://github.com/BLR-R-USR-GRP/SachinKumar_Recommender_System">Slides</a></td>
     <td><a href="https://www.linkedin.com/in/sachinkumar01/">Linkedin</a></td>
     <td></td>
   </tr>  
